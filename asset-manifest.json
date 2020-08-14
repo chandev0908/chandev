@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/chandev/static/css/main.930c6f67.chunk.css",
+    "main.js": "/chandev/static/js/main.a2118d65.chunk.js",
+    "main.js.map": "/chandev/static/js/main.a2118d65.chunk.js.map",
+    "runtime-main.js": "/chandev/static/js/runtime-main.3a902af8.js",
+    "runtime-main.js.map": "/chandev/static/js/runtime-main.3a902af8.js.map",
+    "static/css/2.4707e12a.chunk.css": "/chandev/static/css/2.4707e12a.chunk.css",
+    "static/js/2.4c5205ff.chunk.js": "/chandev/static/js/2.4c5205ff.chunk.js",
+    "static/js/2.4c5205ff.chunk.js.map": "/chandev/static/js/2.4c5205ff.chunk.js.map",
+    "index.html": "/chandev/index.html",
+    "precache-manifest.d71227694ddf06e72b2b7b8d5fd9bf8a.js": "/chandev/precache-manifest.d71227694ddf06e72b2b7b8d5fd9bf8a.js",
+    "service-worker.js": "/chandev/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/chandev/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.930c6f67.chunk.css.map": "/chandev/static/css/main.930c6f67.chunk.css.map",
+    "static/js/2.4c5205ff.chunk.js.LICENSE.txt": "/chandev/static/js/2.4c5205ff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/chandev/static/media/logo.ee7cd8ed.svg",
+    "static/media/reactjs.svg": "/chandev/static/media/reactjs.ee7cd8ed.svg",
+    "static/media/redux.png": "/chandev/static/media/redux.f41cf378.png",
+    "static/media/shape.svg": "/chandev/static/media/shape.4a79c830.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a902af8.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.4c5205ff.chunk.js",
+    "static/css/main.930c6f67.chunk.css",
+    "static/js/main.a2118d65.chunk.js"
+  ]
+}
